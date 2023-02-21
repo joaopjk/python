@@ -14,3 +14,4 @@ last_letters = name[1:]
 print("P"+last_letters)
 last_letters = "P" + last_letters
 print(last_letters)
+print("P" * 10)
